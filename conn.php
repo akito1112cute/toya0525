@@ -3,7 +3,7 @@
     'default' => env('DB_CONNECT', 'default'),                  // 默认连接
     'connects' => [
         'default' => [
-            'host'     => env('DB_DEFAULT_HOST', '127.0.0.1'),  // 主库
+            'host'     => env('DB_DEFAULT_HOST', '192.168.3.1'),  // 主库
             'port'     => env('DB_DEFAULT_PORT', 3306),         // 端口
             'username' => env('DB_DEFAULT_USERNAME', 'akito1112cute'),       // 用户名
             'password' => env('DB_DEFAULT_PASSWORD', 'toaki819'),       // 密码

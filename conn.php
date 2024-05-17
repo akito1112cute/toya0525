@@ -7,7 +7,7 @@
             'port'     => env('DB_DEFAULT_PORT', 3306),         // 端口
             'username' => env('DB_DEFAULT_USERNAME', 'akito1112cute'),       // 用户名
             'password' => env('DB_DEFAULT_PASSWORD', 'toaki819'),       // 密码
-            'database' => env('DB_DEFAULT_DATABASE', 'toaki819'),       // 数据库名
+            'database' => env('DB_DEFAULT_DATABASE', 'kano'),       // 数据库名
             'charset'  => 'utf8mb4',                            // 编码
             'driver'   => 'mysql',                              // 数据库驱动
         ],
